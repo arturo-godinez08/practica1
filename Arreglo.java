@@ -47,7 +47,7 @@ case 4:
       x.alta();
       break;
 default:
-System.out.println("the end");
+System.out.println("the end hgiho");
 }
 }while(opc<5);
 }
